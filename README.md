@@ -1,10 +1,8 @@
-# 1.51 Crossmap
+# GTA V Crossmap
 
-For all your GTA V modding needs.
+For your GTA V mods targeting 1.52 and 1.51.
 
-Unless, of course, you want to use them in GTA Online.
-
-Because modders care for legal text, right?
+You are not allowed to use this for mods that support and/or allow usage in GTA Online.
 
 ## Credits
 
